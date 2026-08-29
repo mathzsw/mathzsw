@@ -29,14 +29,13 @@ Sou estudante do **2º ano do Técnico Integrado em Desenvolvimento de Sistemas 
 
 Tenho interesse em **desenvolvimento de software, Backend, SQL e Banco de Dados**, buscando transformar os conhecimentos adquiridos na formação em projetos práticos.
 
-Durante minha formação, venho trabalhando com:
+Durante minha formação, venho desenvolvendo projetos com:
 
-`JavaScript` `TypeScript` `Node.js` `Express`  
-`SQL` `SQLite` `Sequelize` `Git` `GitHub`
+`JavaScript` `TypeScript` `Node.js` `Express` `SQL` `SQLite` `Sequelize` `Git` `GitHub`
 
 Também tenho interesse em **qualidade de software, automação e Inteligência Artificial**.
 
-> 💡 **Objetivo:** conquistar minha primeira oportunidade na área de tecnologia e continuar evoluindo por meio de projetos e experiências práticas.
+> 💡 **Objetivo:** conquistar minha primeira oportunidade na área de tecnologia e evoluir por meio de projetos e experiências práticas.
 
 ---
 
@@ -54,34 +53,75 @@ Também tenho interesse em **qualidade de software, automação e Inteligência 
 
 <div align="center">
 
-**JavaScript** • **TypeScript** • **SQL** • **Banco de Dados** • **Node.js**
-
-<br>
-
-`Backend` `Otimização de consultas` `Qualidade e testes` `Automação` `Inteligência Artificial`
+`Backend` • `SQL` • `Banco de Dados` • `Qualidade e Testes`  
+`Otimização de Consultas` • `Automação` • `Inteligência Artificial`
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+# 🚀 Projeto principal
 
 <div align="center">
 
-### 🏢 Sistema de Cadastro de Empresas Parceiras
+## 🏢 Sistema de Cadastro de Empresas Parceiras
 
-**Novacody • IFPE**
-
-Projeto acadêmico desenvolvido utilizando **Scrum**, com foco no cadastro e gerenciamento de empresas parceiras.
+### **Novacody • IFPE**
 
 <br>
 
-`Node.js` `Express` `Handlebars` `Sequelize` `SQLite` `JavaScript`
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebars.js&logoColor=F0772B"/>
+<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7"/>
+<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-<br><br>
+</div>
+
+### Sobre o projeto
+
+Projeto acadêmico desenvolvido no **IFPE Campus Jaboatão**, utilizando **Scrum**, com foco no cadastro e gerenciamento de empresas parceiras.
+
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                         NOVACODY                             │
+├──────────────────────────────────────────────────────────────┤
+│  Projeto       : Sistema de Cadastro de Empresas Parceiras  │
+│  Instituição   : IFPE — Campus Jaboatão                     │
+│  Metodologia   : Scrum                                      │
+│  Backend       : Node.js + Express                          │
+│  ORM           : Sequelize                                  │
+│  Banco         : SQLite                                     │
+│  Interface     : Handlebars                                 │
+│  Linguagem     : JavaScript                                 │
+└──────────────────────────────────────────────────────────────┘
+</pre>
+
+<div align="center">
 
 <a href="https://github.com/mathzsw/novacody-sistema-empresas-parceiras-ifpe">
-<img src="https://img.shields.io/badge/VER%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+---
+
+## 📂 Outros projetos
+
+<div align="center">
+
+### 🎬 Catálogo de Filmes e Artistas
+
+Projeto desenvolvido para praticar **JavaScript, organização de dados e desenvolvimento web**.
+
+`JavaScript` `HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/mathzsw/catalogo-filmes-artistas">
+<img src="https://img.shields.io/badge/VER%20PROJETO-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 </div>
@@ -90,18 +130,16 @@ Projeto acadêmico desenvolvido utilizando **Scrum**, com foco no cadastro e ger
 
 <div align="center">
 
-### 🎬 Catálogo de Filmes e Artistas
+### 🧑‍💻 Projeto Volta às Aulas
 
-Projeto desenvolvido para praticar **JavaScript, organização de dados e desenvolvimento web**.
+Projeto desenvolvido durante a formação com foco em **TypeScript** e desenvolvimento de software.
+
+`TypeScript`
 
 <br>
 
-`JavaScript` `HTML` `CSS`
-
-<br><br>
-
-<a href="https://github.com/mathzsw/catalogo-filmes-artistas">
-<img src="https://img.shields.io/badge/VER%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="https://github.com/mathzsw/projetovoltaasaulas">
+<img src="https://img.shields.io/badge/VER%20PROJETO-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 </div>
@@ -114,34 +152,12 @@ Projeto desenvolvido para praticar **JavaScript, organização de dados e desenv
 
 Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box Model em CSS**.
 
-<br>
-
 `HTML` `CSS`
 
-<br><br>
+<br>
 
 <a href="https://github.com/mathzsw/seminario-box-model">
-<img src="https://img.shields.io/badge/VER%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🌎 IFTravel
-
-Projeto acadêmico desenvolvido para praticar **estruturação de páginas e estilização com HTML e CSS**.
-
-<br>
-
-`HTML` `CSS`
-
-<br><br>
-
-<a href="https://github.com/mathzsw/IFTravel">
-<img src="https://img.shields.io/badge/VER%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 </div>
@@ -156,11 +172,7 @@ Projeto acadêmico desenvolvido para praticar **estruturação de páginas e est
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathzsw&layout=compact&langs_count=6&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=mathzsw&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
 
@@ -210,15 +222,11 @@ Projeto acadêmico desenvolvido para praticar **estruturação de páginas e est
 
 <br>
 
-### 🎨 Adobe Photoshop Creative Cloud — Módulo I
+### 🎨 Adobe Photoshop Creative Cloud
 
-**Prepara Cursos Profissionalizantes**
+**Módulo I e Módulo II**
 
-<br>
-
-### 🎨 Adobe Photoshop Creative Cloud — Módulo II
-
-**Prepara Cursos Profissionalizantes**
+Prepara Cursos Profissionalizantes
 
 </div>
 
@@ -238,7 +246,7 @@ Projeto acadêmico desenvolvido para praticar **estruturação de páginas e est
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
@@ -254,6 +262,8 @@ Projeto acadêmico desenvolvido para praticar **estruturação de páginas e est
 
 > **Aprendendo • Construindo • Evoluindo 🚀**
 
-</div>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
+
+</div>
