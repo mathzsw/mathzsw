@@ -205,13 +205,9 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 <div align="center">
 
-<a href="https://github.com/mathzsw">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mathzsw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="Estatísticas do GitHub"/>
-</a>
 
-<a href="https://github.com/mathzsw">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathzsw&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
-</a>
 
 <br><br>
 
@@ -222,7 +218,6 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathzsw&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Gráfico de atividade"/>
 
 </div>
-
 ---
 ## 🏆 Reconhecimentos
 
