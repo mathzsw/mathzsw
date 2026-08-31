@@ -201,32 +201,29 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mathzsw&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="Estatísticas do GitHub"/>
+<a href="https://github.com/mathzsw">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mathzsw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="Estatísticas do GitHub"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathzsw&layout=compact&langs_count=6&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" alt="Linguagens mais utilizadas"/>
+<a href="https://github.com/mathzsw">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathzsw&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=mathzsw&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Sequência de contribuições"/>
+<img src="https://streak-stats.demolab.com?user=mathzsw&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mathzsw&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Gráfico de atividade"/>
 
 </div>
 
 ---
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mathzsw&bg_color=020617&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Gráfico de atividade"/>
-
-</div>
-
----
-
 ## 🏆 Reconhecimentos
 
 <div align="center">
