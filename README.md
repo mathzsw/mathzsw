@@ -41,12 +41,20 @@ const matheus = {
     "Qualidade de software",
     "Automação",
     "Inteligência Artificial"
-  ],
-
-  objetivo:
-    "Conquistar minha primeira oportunidade na área de tecnologia."
+  ]
 };
 ```
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade na área de tecnologia, com interesse em
+**Desenvolvimento Backend, Banco de Dados e Qualidade de Software**.
+
+Tenho interesse em transformar problemas em soluções utilizando
+**JavaScript, TypeScript, Node.js e SQL**, enquanto continuo desenvolvendo
+minhas habilidades através de projetos práticos.
 
 ---
 
@@ -110,6 +118,21 @@ const matheus = {
 `Qualidade e Testes` • `Otimização de Consultas`
 
 `Automação` • `Inteligência Artificial`
+
+</div>
+
+---
+
+## 💡 O que estou construindo
+
+<div align="center">
+
+| Área | Foco |
+|:---:|:---|
+| 💻 Backend | Node.js • Express • TypeScript |
+| 🗄️ Banco de Dados | SQL • MySQL • SQLite • Sequelize |
+| 🧪 Qualidade | Testes • Boas práticas • Organização |
+| 🤖 Tecnologia | Automação • Inteligência Artificial |
 
 </div>
 
