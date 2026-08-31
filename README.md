@@ -1,22 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:06b6d4&height=200&section=header&text=MATHEUS%20AUGUSTO&fontSize=44&fontColor=E0F2FE&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SISTEMAS%20%E2%80%A2%20BACKEND%20%E2%80%A2%20BANCO%20DE%20DADOS&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:06b6d4&height=200&section=header&text=MATHEUS%20AUGUSTO&fontSize=44&fontColor=E0F2FE&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SISTEMAS%20%E2%80%A2%20BACKEND%20%E2%80%A2%20BANCO%20DE%20DADOS&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Matheus Augusto"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+Matheus+Augusto.;Estudante+de+Desenvolvimento+de+Sistemas.;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+SQL;Construindo+projetos+e+evoluindo+todos+os+dias." alt="Animação de texto"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/FOCO-BACKEND%20%2F%20BANCO%20DE%20DADOS-020617?style=for-the-badge&logo=databricks&logoColor=22D3EE"/>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/mathrdrigues">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/mathzsw">
-<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 </div>
@@ -43,7 +38,27 @@ Também tenho interesse em **qualidade de software, automação e Inteligência 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mysql,sqlite,html,css,git,github,vscode" />
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
 
 </div>
 
@@ -68,28 +83,35 @@ Também tenho interesse em **qualidade de software, automação e Inteligência 
 
 ### **Novacody • IFPE**
 
-<br>
+</div>
 
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebars.js&logoColor=F0772B"/>
-<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7"/>
-<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+Projeto acadêmico desenvolvido no **IFPE Campus Jaboatão**, utilizando **Scrum**, com foco no cadastro e gerenciamento de empresas parceiras.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
+<img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebarsdotjs&logoColor=F0772B" alt="Handlebars"/>
+<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
+<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 
 </div>
 
-### Sobre o projeto
+<br>
 
-Projeto acadêmico desenvolvido no **IFPE Campus Jaboatão**, utilizando **Scrum**, com foco no cadastro e gerenciamento de empresas parceiras.
+<div align="center">
 
 <pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                         NOVACODY                             │
 ├──────────────────────────────────────────────────────────────┤
-│  Projeto       : Sistema de Cadastro de Empresas Parceiras  │
+│  Tipo          : Projeto acadêmico                          │
 │  Instituição   : IFPE — Campus Jaboatão                     │
 │  Metodologia   : Scrum                                      │
+│  Objetivo      : Cadastro e gerenciamento de empresas       │
+│                  parceiras                                  │
+│                                                              │
 │  Backend       : Node.js + Express                          │
 │  ORM           : Sequelize                                  │
 │  Banco         : SQLite                                     │
@@ -98,10 +120,8 @@ Projeto acadêmico desenvolvido no **IFPE Campus Jaboatão**, utilizando **Scrum
 └──────────────────────────────────────────────────────────────┘
 </pre>
 
-<div align="center">
-
 <a href="https://github.com/mathzsw/novacody-sistema-empresas-parceiras-ifpe">
-<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
 </a>
 
 </div>
@@ -110,25 +130,15 @@ Projeto acadêmico desenvolvido no **IFPE Campus Jaboatão**, utilizando **Scrum
 
 ## 📂 Outros projetos
 
-<div align="center">
-
 ### 🎬 Catálogo de Filmes e Artistas
 
 Projeto desenvolvido para praticar **JavaScript, organização de dados e desenvolvimento web**.
 
 `JavaScript` `HTML` `CSS`
 
-<br>
+[🔗 Ver projeto](https://github.com/mathzsw/catalogo-filmes-artistas)
 
-<a href="https://github.com/mathzsw/catalogo-filmes-artistas">
-<img src="https://img.shields.io/badge/VER%20PROJETO-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ### 🧑‍💻 Projeto Volta às Aulas
 
@@ -136,17 +146,9 @@ Projeto desenvolvido durante a formação com foco em **TypeScript** e desenvolv
 
 `TypeScript`
 
-<br>
+[🔗 Ver projeto](https://github.com/mathzsw/projetovoltaasaulas)
 
-<a href="https://github.com/mathzsw/projetovoltaasaulas">
-<img src="https://img.shields.io/badge/VER%20PROJETO-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ### 📐 Seminário — Box Model
 
@@ -154,13 +156,7 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 `HTML` `CSS`
 
-<br>
-
-<a href="https://github.com/mathzsw/seminario-box-model">
-<img src="https://img.shields.io/badge/VER%20PROJETO-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-
-</div>
+[🔗 Ver projeto](https://github.com/mathzsw/seminario-box-model)
 
 ---
 
@@ -168,13 +164,13 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mathzsw&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mathzsw&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathzsw&layout=compact&langs_count=6&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathzsw&layout=compact&langs_count=6&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" alt="Linguagens mais utilizadas"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=mathzsw&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+<img src="https://streak-stats.demolab.com?user=mathzsw&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="Sequência de contribuições"/>
 
 </div>
 
@@ -184,7 +180,7 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mathzsw&bg_color=020617&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mathzsw&bg_color=020617&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Gráfico de atividade"/>
 
 </div>
 
@@ -194,9 +190,9 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇%20MEDALHA%20DE%20OURO-OBRL-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🥉%20MEDALHA%20DE%20BRONZE-OBRL-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏅%20MENÇÃO%20HONROSA-OBMEP-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🥇%20MEDALHA%20DE%20OURO-OBRL-020617?style=for-the-badge" alt="Medalha de Ouro OBRL"/>
+<img src="https://img.shields.io/badge/🥉%20MEDALHA%20DE%20BRONZE-OBRL-020617?style=for-the-badge" alt="Medalha de Bronze OBRL"/>
+<img src="https://img.shields.io/badge/🏅%20MENÇÃO%20HONROSA-OBMEP-020617?style=for-the-badge" alt="Menção Honrosa OBMEP"/>
 
 </div>
 
@@ -224,8 +220,7 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 ### 🎨 Adobe Photoshop Creative Cloud
 
-**Módulo I e Módulo II**
-
+**Módulo I e Módulo II**  
 Prepara Cursos Profissionalizantes
 
 </div>
@@ -251,11 +246,11 @@ Prepara Cursos Profissionalizantes
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mathrdrigues">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/mathzsw">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -264,6 +259,5 @@ Prepara Cursos Profissionalizantes
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=120&section=footer" width="100%" alt="Rodapé"/>
 </div>
