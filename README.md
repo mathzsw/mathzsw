@@ -205,20 +205,22 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mathzsw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="Estatísticas do GitHub"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathzsw&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathzsw&theme=github_dark" width="95%" alt="Resumo do perfil GitHub"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=mathzsw&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathzsw&theme=github_dark" width="45%" alt="Linguagens dos repositórios"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathzsw&theme=github_dark" width="45%" alt="Linguagens por commits"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mathzsw&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Gráfico de atividade"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathzsw&theme=github_dark" width="45%" alt="Estatísticas"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mathzsw&theme=github_dark&utcOffset=-3" width="45%" alt="Horários de atividade"/>
 
 </div>
+
 ---
+
 ## 🏆 Reconhecimentos
 
 <div align="center">
