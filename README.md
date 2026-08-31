@@ -20,41 +20,78 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Sou estudante do **2º ano do Técnico Integrado em Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE)**.
+```javascript
+const matheus = {
+  nome: "Matheus Augusto",
+  localizacao: "Pernambuco, Brasil",
+  instituicao: "IFPE — Campus Jaboatão",
+  curso: "Técnico Integrado em Desenvolvimento de Sistemas",
+  periodo: "2025 — 2027",
 
-Tenho interesse em **desenvolvimento de software, Backend, SQL e Banco de Dados**, buscando transformar os conhecimentos adquiridos na formação em projetos práticos.
+  foco: [
+    "Backend",
+    "TypeScript",
+    "JavaScript",
+    "SQL",
+    "Banco de Dados"
+  ],
 
-Durante minha formação, venho desenvolvendo projetos com:
+  interesses: [
+    "Desenvolvimento de software",
+    "Qualidade de software",
+    "Automação",
+    "Inteligência Artificial"
+  ],
 
-`JavaScript` `TypeScript` `Node.js` `Express` `SQL` `SQLite` `Sequelize` `Git` `GitHub`
-
-Também tenho interesse em **qualidade de software, automação e Inteligência Artificial**.
-
-> 💡 **Objetivo:** conquistar minha primeira oportunidade na área de tecnologia e evoluir por meio de projetos e experiências práticas.
+  objetivo:
+    "Conquistar minha primeira oportunidade na área de tecnologia."
+};
+```
 
 ---
 
-## ⚡ Tecnologias
+## ⚡ Tecnologias e ferramentas
 
-<div align="center">
+### Linguagens
+
+<div align="left">
 
 <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+
+</div>
+
+### Backend
+
+<div align="left">
+
 <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
 
-<br>
+</div>
+
+### Banco de Dados
+
+<div align="left">
 
 <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
 <img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
 <img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
 
-<br>
+</div>
+
+### Web
+
+<div align="left">
 
 <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
 
-<br>
+</div>
+
+### Ferramentas
+
+<div align="left">
 
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
@@ -68,8 +105,11 @@ Também tenho interesse em **qualidade de software, automação e Inteligência 
 
 <div align="center">
 
-`Backend` • `SQL` • `Banco de Dados` • `Qualidade e Testes`  
-`Otimização de Consultas` • `Automação` • `Inteligência Artificial`
+`Backend` • `TypeScript` • `SQL` • `Banco de Dados`
+
+`Qualidade e Testes` • `Otimização de Consultas`
+
+`Automação` • `Inteligência Artificial`
 
 </div>
 
@@ -81,13 +121,13 @@ Também tenho interesse em **qualidade de software, automação e Inteligência 
 
 ## 🏢 Sistema de Cadastro de Empresas Parceiras
 
-### **Novacody • IFPE**
+### **NOVACODY • IFPE**
 
-</div>
-
-Projeto acadêmico desenvolvido no **IFPE Campus Jaboatão**, utilizando **Scrum**, com foco no cadastro e gerenciamento de empresas parceiras.
-
-<div align="center">
+<p>
+Projeto acadêmico desenvolvido no <strong>IFPE Campus Jaboatão</strong>,
+utilizando <strong>Scrum</strong> e com foco no cadastro e gerenciamento
+de empresas parceiras.
+</p>
 
 <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
@@ -98,27 +138,32 @@ Projeto acadêmico desenvolvido no **IFPE Campus Jaboatão**, utilizando **Scrum
 
 </div>
 
-<br>
+### Estrutura do projeto
+
+```javascript
+const novacody = {
+  projeto: "Sistema de Cadastro de Empresas Parceiras",
+
+  objetivo:
+    "Cadastrar e gerenciar empresas parceiras de forma estruturada.",
+
+  contexto: {
+    instituicao: "IFPE — Campus Jaboatão",
+    metodologia: "Scrum",
+    tipo: "Projeto acadêmico"
+  },
+
+  stack: {
+    linguagem: "JavaScript",
+    backend: ["Node.js", "Express"],
+    interface: "Handlebars",
+    orm: "Sequelize",
+    banco: "SQLite"
+  }
+};
+```
 
 <div align="center">
-
-<pre>
-┌──────────────────────────────────────────────────────────────┐
-│                         NOVACODY                             │
-├──────────────────────────────────────────────────────────────┤
-│  Tipo          : Projeto acadêmico                          │
-│  Instituição   : IFPE — Campus Jaboatão                     │
-│  Metodologia   : Scrum                                      │
-│  Objetivo      : Cadastro e gerenciamento de empresas       │
-│                  parceiras                                  │
-│                                                              │
-│  Backend       : Node.js + Express                          │
-│  ORM           : Sequelize                                  │
-│  Banco         : SQLite                                     │
-│  Interface     : Handlebars                                 │
-│  Linguagem     : JavaScript                                 │
-└──────────────────────────────────────────────────────────────┘
-</pre>
 
 <a href="https://github.com/mathzsw/novacody-sistema-empresas-parceiras-ifpe">
 <img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
@@ -138,8 +183,6 @@ Projeto desenvolvido para praticar **JavaScript, organização de dados e desenv
 
 [🔗 Ver projeto](https://github.com/mathzsw/catalogo-filmes-artistas)
 
----
-
 ### 🧑‍💻 Projeto Volta às Aulas
 
 Projeto desenvolvido durante a formação com foco em **TypeScript** e desenvolvimento de software.
@@ -147,8 +190,6 @@ Projeto desenvolvido durante a formação com foco em **TypeScript** e desenvolv
 `TypeScript`
 
 [🔗 Ver projeto](https://github.com/mathzsw/projetovoltaasaulas)
-
----
 
 ### 📐 Seminário — Box Model
 
@@ -186,7 +227,7 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Reconhecimentos
 
 <div align="center">
 
@@ -202,26 +243,18 @@ Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box 
 
 <div align="center">
 
-### 🌐 Networking Basics
-
-**Cisco Networking Academy**
-
-22 horas • Média final **8,9** • 2026
+**🌐 Networking Basics**  
+Cisco Networking Academy • **22 horas** • Média final **8,9** • 2026
 
 <br>
 
-### 📊 Excel 2021
-
-**Prepara Cursos Profissionalizantes**
-
-16 horas • 2026
+**📊 Excel 2021**  
+Prepara Cursos Profissionalizantes • **16 horas** • 2026
 
 <br>
 
-### 🎨 Adobe Photoshop Creative Cloud
-
-**Módulo I e Módulo II**  
-Prepara Cursos Profissionalizantes
+**🎨 Adobe Photoshop Creative Cloud**  
+Módulo I e Módulo II • Prepara Cursos Profissionalizantes
 
 </div>
 
@@ -255,9 +288,10 @@ Prepara Cursos Profissionalizantes
 
 <br><br>
 
-> **Aprendendo • Construindo • Evoluindo 🚀**
+<code>Aprendendo • Construindo • Evoluindo 🚀</code>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=120&section=footer" width="100%" alt="Rodapé"/>
+
 </div>
