@@ -140,11 +140,69 @@ desenvolvimento de APIs, CRUD, relacionamentos entre dados e organização de pr
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Projeto principal
 
 <div align="center">
 
-## 🗳️ POO — Eleições 2026
+## 🏢 NOVACODY — IFPE
+
+<p>
+<strong>Sistema de Cadastro de Empresas Parceiras</strong>
+</p>
+
+<p>
+Projeto acadêmico desenvolvido no <strong>IFPE Campus Jaboatão</strong>,
+utilizando <strong>Scrum</strong> e com foco no cadastro e gerenciamento
+de empresas parceiras.
+</p>
+
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
+<img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebarsdotjs&logoColor=F0772B" alt="Handlebars"/>
+<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
+<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+
+<br><br>
+
+<a href="https://github.com/mathzsw/novacody-sistema-empresas-parceiras-ifpe">
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
+</a>
+
+</div>
+
+### Estrutura do projeto
+
+```javascript
+const novacody = {
+  projeto: "Sistema de Cadastro de Empresas Parceiras",
+
+  objetivo:
+    "Cadastrar e gerenciar empresas parceiras de forma estruturada.",
+
+  contexto: {
+    instituicao: "IFPE — Campus Jaboatão",
+    metodologia: "Scrum",
+    tipo: "Projeto acadêmico"
+  },
+
+  stack: {
+    linguagem: "JavaScript",
+    backend: ["Node.js", "Express"],
+    interface: "Handlebars",
+    orm: "Sequelize",
+    banco: "SQLite"
+  }
+};
+```
+
+---
+
+## ⭐ Outros projetos em destaque
+
+<div align="center">
+
+### 🗳️ POO — Eleições 2026
 
 <p>
 Projeto em <strong>TypeScript</strong> desenvolvido para praticar
@@ -163,7 +221,7 @@ herança e relacionamento entre objetos.
 
 <br><br>
 
-## 📚 StudyHub
+### 📚 StudyHub
 
 <p>
 Projeto voltado para organização de estudos, com desenvolvimento de funcionalidades
@@ -181,7 +239,7 @@ de tarefas e matérias e evolução contínua do backend.
 
 <br><br>
 
-## 🎬 Sistema de Filmes — UIkit
+### 🎬 Sistema de Filmes — UIkit
 
 <p>
 Projeto acadêmico desenvolvido com <strong>Node.js, Express, Handlebars,
@@ -200,41 +258,19 @@ Trabalha com filmes, artistas, diretores e fichas técnicas.
 <img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
 </a>
 
-<br><br>
-
-## 🏢 NOVACODY — IFPE
-
-<p>
-Sistema acadêmico para cadastro e gerenciamento de empresas parceiras,
-desenvolvido no <strong>IFPE Campus Jaboatão</strong> utilizando
-<strong>Scrum</strong>.
-</p>
-
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
-<img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebarsdotjs&logoColor=F0772B" alt="Handlebars"/>
-<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
-<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
-
-<br><br>
-
-<a href="https://github.com/mathzsw/novacody-sistema-empresas-parceiras-ifpe">
-<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
-</a>
-
 </div>
 
-### Estrutura do projeto
+### Estrutura dos projetos
 
 ```javascript
 const projetos = {
-  atuais: [
+  projetoPrincipal: "NOVACODY — IFPE",
+
+  destaques: [
     "POO — Eleições 2026",
     "StudyHub",
     "Sistema de Filmes — UIkit"
   ],
-
-  projetoAcademico: "NOVACODY — IFPE",
 
   tecnologias: [
     "JavaScript",
