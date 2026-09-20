@@ -52,9 +52,9 @@ const matheus = {
 Busco minha primeira oportunidade na área de tecnologia, com interesse em
 **Desenvolvimento Backend, Banco de Dados e Qualidade de Software**.
 
-Tenho interesse em transformar problemas em soluções utilizando
-**JavaScript, TypeScript, Node.js e SQL**, enquanto continuo desenvolvendo
-minhas habilidades através de projetos práticos.
+Tenho experiência prática em projetos acadêmicos e pessoais utilizando
+**JavaScript, TypeScript, Node.js, Express, SQL, Sequelize e SQLite**, além de
+desenvolvimento de APIs, CRUD, relacionamentos entre dados e organização de projetos.
 
 ---
 
@@ -75,6 +75,7 @@ minhas habilidades através de projetos práticos.
 
 <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
+<img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebarsdotjs&logoColor=F0772B" alt="Handlebars"/>
 
 </div>
 
@@ -94,6 +95,7 @@ minhas habilidades através de projetos práticos.
 
 <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/UIkit-020617?style=for-the-badge&logo=uikit&logoColor=FFFFFF" alt="UIkit"/>
 
 </div>
 
@@ -138,18 +140,74 @@ minhas habilidades através de projetos práticos.
 
 ---
 
-# 🚀 Projeto principal
+# 🚀 Projetos em destaque
 
 <div align="center">
 
-## 🏢 Sistema de Cadastro de Empresas Parceiras
-
-### **NOVACODY • IFPE**
+## 🗳️ POO — Eleições 2026
 
 <p>
-Projeto acadêmico desenvolvido no <strong>IFPE Campus Jaboatão</strong>,
-utilizando <strong>Scrum</strong> e com foco no cadastro e gerenciamento
-de empresas parceiras.
+Projeto em <strong>TypeScript</strong> desenvolvido para praticar
+<strong>Programação Orientada a Objetos</strong>, organização de classes,
+herança e relacionamento entre objetos.
+</p>
+
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/POO-020617?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" alt="POO"/>
+
+<br><br>
+
+<a href="https://github.com/mathzsw/poo-eleicoes-2026">
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
+</a>
+
+<br><br>
+
+## 📚 StudyHub
+
+<p>
+Projeto voltado para organização de estudos, com desenvolvimento de funcionalidades
+de tarefas e matérias e evolução contínua do backend.
+</p>
+
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+
+<br><br>
+
+<a href="https://github.com/mathzsw/StudyHub">
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
+</a>
+
+<br><br>
+
+## 🎬 Sistema de Filmes — UIkit
+
+<p>
+Projeto acadêmico desenvolvido com <strong>Node.js, Express, Handlebars,
+Sequelize e SQLite</strong>, utilizando <strong>UIkit</strong> na interface.
+Trabalha com filmes, artistas, diretores e fichas técnicas.
+</p>
+
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
+<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
+<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
+
+<br><br>
+
+<a href="https://github.com/mathzsw/projeto-framework-uikit">
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
+</a>
+
+<br><br>
+
+## 🏢 NOVACODY — IFPE
+
+<p>
+Sistema acadêmico para cadastro e gerenciamento de empresas parceiras,
+desenvolvido no <strong>IFPE Campus Jaboatão</strong> utilizando
+<strong>Scrum</strong>.
 </p>
 
 <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
@@ -157,36 +215,8 @@ de empresas parceiras.
 <img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebarsdotjs&logoColor=F0772B" alt="Handlebars"/>
 <img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
 <img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 
-</div>
-
-### Estrutura do projeto
-
-```javascript
-const novacody = {
-  projeto: "Sistema de Cadastro de Empresas Parceiras",
-
-  objetivo:
-    "Cadastrar e gerenciar empresas parceiras de forma estruturada.",
-
-  contexto: {
-    instituicao: "IFPE — Campus Jaboatão",
-    metodologia: "Scrum",
-    tipo: "Projeto acadêmico"
-  },
-
-  stack: {
-    linguagem: "JavaScript",
-    backend: ["Node.js", "Express"],
-    interface: "Handlebars",
-    orm: "Sequelize",
-    banco: "SQLite"
-  }
-};
-```
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/mathzsw/novacody-sistema-empresas-parceiras-ifpe">
 <img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
@@ -194,33 +224,53 @@ const novacody = {
 
 </div>
 
+### Estrutura do projeto
+
+```javascript
+const projetos = {
+  atuais: [
+    "POO — Eleições 2026",
+    "StudyHub",
+    "Sistema de Filmes — UIkit"
+  ],
+
+  projetoAcademico: "NOVACODY — IFPE",
+
+  tecnologias: [
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "SQL",
+    "Sequelize",
+    "SQLite"
+  ]
+};
+```
+
 ---
 
 ## 📂 Outros projetos
 
 ### 🎬 Catálogo de Filmes e Artistas
 
-Projeto desenvolvido para praticar **JavaScript, organização de dados e desenvolvimento web**.
+Projeto desenvolvido para praticar **CRUD, organização de dados e desenvolvimento web**.
 
 `JavaScript` `HTML` `CSS`
 
 [🔗 Ver projeto](https://github.com/mathzsw/catalogo-filmes-artistas)
 
-### 🧑‍💻 Projeto Volta às Aulas
+### ✈️ IFTravel
 
-Projeto desenvolvido durante a formação com foco em **TypeScript** e desenvolvimento de software.
+Projeto desenvolvido durante a formação para praticar desenvolvimento web e organização de aplicações.
 
-`TypeScript`
+[🔗 Ver projeto](https://github.com/mathzsw/IFTravel)
 
-[🔗 Ver projeto](https://github.com/mathzsw/projetovoltaasaulas)
+### 🍔 Cardápio — My Burguer House
 
-### 📐 Seminário — Box Model
+Projeto de interface desenvolvido para praticar **HTML e CSS** e construção de páginas web.
 
-Projeto acadêmico desenvolvido para demonstrar conceitos fundamentais do **Box Model em CSS**.
-
-`HTML` `CSS`
-
-[🔗 Ver projeto](https://github.com/mathzsw/seminario-box-model)
+[🔗 Ver projeto](https://github.com/mathzsw/Cardapio-My-Burguer-House)
 
 ---
 
