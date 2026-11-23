@@ -1,400 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:06b6d4&height=200&section=header&text=MATHEUS%20AUGUSTO&fontSize=44&fontColor=E0F2FE&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SISTEMAS%20%E2%80%A2%20BACKEND%20%E2%80%A2%20BANCO%20DE%20DADOS&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Matheus Augusto"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0f172a,100:06b6d4&height=190&section=header&text=Matheus%20Augusto&fontSize=46&fontColor=E0F2FE&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Desenvolvimento%20Web&descAlignY=62&descSize=15" width="100%" alt="Matheus Augusto" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+Matheus+Augusto.;Estudante+de+Desenvolvimento+de+Sistemas.;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+SQL;Construindo+projetos+e+evoluindo+todos+os+dias." alt="Animação de texto"/>
-
-<br>
+<p>
+  Estudante de Desenvolvimento de Sistemas no IFPE — Campus Jaboatão
+</p>
 
 <a href="https://www.linkedin.com/in/mathrdrigues">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
 </a>
-
 <a href="https://github.com/mathzsw">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
 </div>
 
----
+## Sobre mim
 
-## 👨🏻‍💻 Sobre mim
+Sou estudante do 2º ano do curso Técnico Integrado em Desenvolvimento de Sistemas no **Instituto Federal de Pernambuco (IFPE)**.
 
-```javascript
-const matheus = {
-  nome: "Matheus Augusto",
-  localizacao: "Pernambuco, Brasil",
-  instituicao: "IFPE — Campus Jaboatão",
-  curso: "Técnico Integrado em Desenvolvimento de Sistemas",
-  periodo: "2025 — 2027",
+Tenho desenvolvido projetos acadêmicos e pessoais envolvendo aplicações web, interfaces, APIs e bancos de dados. Meu principal interesse está no desenvolvimento web, com atenção especial ao backend, à organização do código e à qualidade de software.
 
-  foco: [
-    "Backend",
-    "TypeScript",
-    "JavaScript",
-    "SQL",
-    "Banco de Dados"
-  ],
+Busco minha primeira oportunidade na área de tecnologia para colocar meus conhecimentos em prática e continuar evoluindo.
 
-  interesses: [
-    "Desenvolvimento de software",
-    "Qualidade de software",
-    "Automação",
-    "Inteligência Artificial"
-  ]
-};
-```
+## Tecnologias
 
----
+**Linguagens**
+  
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
 
-## 🎯 Objetivo
+**Frontend**
 
-Busco minha primeira oportunidade na área de tecnologia, com interesse em
-**Desenvolvimento Backend, Banco de Dados e Qualidade de Software**.
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/UIkit-111827?style=flat-square&logo=uikit&logoColor=FFFFFF" alt="UIkit" />
+<img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
 
-Tenho experiência prática em projetos acadêmicos e pessoais utilizando
-**JavaScript, TypeScript, Node.js, Express, SQL, Sequelize e SQLite**, além de
-desenvolvimento de APIs, CRUD, relacionamentos entre dados e organização de projetos.
+**Backend e bancos de dados**
 
----
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+<img src="https://img.shields.io/badge/Sequelize-111827?style=flat-square&logo=sequelize&logoColor=52B0E7" alt="Sequelize" />
+<img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=22D3EE" alt="SQLite" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
 
-## ⚡ Tecnologias e ferramentas
+**Ferramentas**
 
-### Linguagens
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
 
-<div align="left">
+## Projetos em destaque
 
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+### [Convite Digital XV](https://github.com/mathzsw/convite-xv-maria-alice)
 
-</div>
+Aplicação web para convite digital, com confirmação de presença e área administrativa para gerenciamento dos convidados.
 
-### Backend
+**React · TypeScript · Vite · Node.js · Express · Supabase**
 
-<div align="left">
+### [StudyHub](https://github.com/mathzsw/StudyHub)
 
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
-<img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebarsdotjs&logoColor=F0772B" alt="Handlebars"/>
+Sistema web para organizar matérias e tarefas em um só lugar. O projeto está em desenvolvimento e utiliza uma estrutura separada entre rotas, controllers, models e views.
 
-</div>
+**JavaScript · Node.js · Express · Handlebars · Sequelize · SQLite**
 
-### Banco de Dados
+### [Política sem Silêncio](https://github.com/mathzsw/politica-sem-silencio)
 
-<div align="left">
+Quiz interativo desenvolvido como projeto acadêmico de História. Trabalha o tema da violência política de gênero e raça no ambiente digital, com salas, pontuação e ranking.
 
-<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
+[Ver aplicação](https://politica-sem-silencio.onrender.com)
 
-</div>
+**Node.js · Express · Handlebars · Sequelize · SQLite**
 
-### Web
+### [Rastro](https://github.com/mathzsw/rastro)
 
-<div align="left">
+Projeto de uma plataforma para reconstrução histórica e visualização da evolução de projetos no GitHub.
 
-<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-<img src="https://img.shields.io/badge/UIkit-020617?style=for-the-badge&logo=uikit&logoColor=FFFFFF" alt="UIkit"/>
+### [VibeQR](https://github.com/mathzsw/VibeQR)
 
-</div>
+Gerador de QR Code para links, desenvolvido durante uma oficina de Vibe Coding da Semana Nacional de Ciência e Tecnologia.
 
-### Ferramentas
+**HTML · CSS · JavaScript**
 
-<div align="left">
+## Outros projetos
 
-<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+- [Atividade React — Lista de Filmes](https://github.com/mathzsw/atividade-react-filmes) — exercício de React com consumo de API.
+- [Novacody — Empresas Parceiras](https://github.com/mathzsw/novacody-sistema-empresas-parceiras-ifpe) — sistema acadêmico de cadastro e gerenciamento de empresas.
+- [POO — Eleições 2026](https://github.com/mathzsw/poo-eleicoes-2026) — projeto para praticar encapsulamento, herança, polimorfismo e abstração.
+- [Projeto UIkit](https://github.com/mathzsw/projeto-framework-uikit) — atividade de desenvolvimento web utilizando o framework UIkit.
 
-</div>
+## Cursos complementares
 
----
+- **Networking Basics** — Cisco Networking Academy · 22 horas
+- **Excel 2021** — Prepara Cursos Profissionalizantes · 16 horas
+- **Adobe Photoshop Creative Cloud** — Módulos I e II · Prepara Cursos Profissionalizantes
 
-## 🧠 Atualmente estudando
+## Reconhecimentos
 
-<div align="center">
+- Medalha de Ouro — OBRL
+- Medalha de Bronze — OBRL
+- Menção Honrosa — OBMEP
 
-`Backend` • `TypeScript` • `SQL` • `Banco de Dados`
+## Formação
 
-`Qualidade e Testes` • `Otimização de Consultas`
+**Técnico Integrado em Desenvolvimento de Sistemas**  
+Instituto Federal de Pernambuco (IFPE) — Campus Jaboatão
 
-`Automação` • `Inteligência Artificial`
+## Contato
 
-</div>
-
----
-
-## 💡 O que estou construindo
+<a href="https://www.linkedin.com/in/mathrdrigues">LinkedIn</a> · <a href="https://github.com/mathzsw">GitHub</a>
 
 <div align="center">
-
-| Área | Foco |
-|:---:|:---|
-| 💻 Backend | Node.js • Express • TypeScript |
-| 🗄️ Banco de Dados | SQL • MySQL • SQLite • Sequelize |
-| 🧪 Qualidade | Testes • Boas práticas • Organização |
-| 🤖 Tecnologia | Automação • Inteligência Artificial |
-
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathzsw&theme=github_dark" width="95%" alt="Resumo do perfil GitHub" />
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathzsw&theme=github_dark" width="45%" alt="Linguagens dos repositórios" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathzsw&theme=github_dark" width="45%" alt="Estatísticas do GitHub" />
 </div>
 
----
-
-# 🚀 Projeto principal
-
 <div align="center">
-
-## 🏢 NOVACODY — IFPE
-
-<p>
-<strong>Sistema de Cadastro de Empresas Parceiras</strong>
-</p>
-
-<p>
-Projeto acadêmico desenvolvido no <strong>IFPE Campus Jaboatão</strong>,
-utilizando <strong>Scrum</strong> e com foco no cadastro e gerenciamento
-de empresas parceiras.
-</p>
-
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
-<img src="https://img.shields.io/badge/Handlebars-020617?style=for-the-badge&logo=handlebarsdotjs&logoColor=F0772B" alt="Handlebars"/>
-<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
-<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-
-<br><br>
-
-<a href="https://github.com/mathzsw/novacody-sistema-empresas-parceiras-ifpe">
-<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
-</a>
-
-</div>
-
-### Estrutura do projeto
-
-```javascript
-const novacody = {
-  projeto: "Sistema de Cadastro de Empresas Parceiras",
-
-  objetivo:
-    "Cadastrar e gerenciar empresas parceiras de forma estruturada.",
-
-  contexto: {
-    instituicao: "IFPE — Campus Jaboatão",
-    metodologia: "Scrum",
-    tipo: "Projeto acadêmico"
-  },
-
-  stack: {
-    linguagem: "JavaScript",
-    backend: ["Node.js", "Express"],
-    interface: "Handlebars",
-    orm: "Sequelize",
-    banco: "SQLite"
-  }
-};
-```
-
----
-
-## ⭐ Outros projetos em destaque
-
-<div align="center">
-
-### 🗳️ POO — Eleições 2026
-
-<p>
-Projeto em <strong>TypeScript</strong> desenvolvido para praticar
-<strong>Programação Orientada a Objetos</strong>, organização de classes,
-herança e relacionamento entre objetos.
-</p>
-
-<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/POO-020617?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" alt="POO"/>
-
-<br><br>
-
-<a href="https://github.com/mathzsw/poo-eleicoes-2026">
-<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
-</a>
-
-<br><br>
-
-### 📚 StudyHub
-
-<p>
-Projeto voltado para organização de estudos, com desenvolvimento de funcionalidades
-de tarefas e matérias e evolução contínua do backend.
-</p>
-
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
-
-<br><br>
-
-<a href="https://github.com/mathzsw/StudyHub">
-<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
-</a>
-
-<br><br>
-
-### 🎬 Sistema de Filmes — UIkit
-
-<p>
-Projeto acadêmico desenvolvido com <strong>Node.js, Express, Handlebars,
-Sequelize e SQLite</strong>, utilizando <strong>UIkit</strong> na interface.
-Trabalha com filmes, artistas, diretores e fichas técnicas.
-</p>
-
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express"/>
-<img src="https://img.shields.io/badge/Sequelize-020617?style=for-the-badge&logo=sequelize&logoColor=52B0E7" alt="Sequelize"/>
-<img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite"/>
-
-<br><br>
-
-<a href="https://github.com/mathzsw/projeto-framework-uikit">
-<img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
-</a>
-
-</div>
-
-### Estrutura dos projetos
-
-```javascript
-const projetos = {
-  projetoPrincipal: "NOVACODY — IFPE",
-
-  destaques: [
-    "POO — Eleições 2026",
-    "StudyHub",
-    "Sistema de Filmes — UIkit"
-  ],
-
-  tecnologias: [
-    "JavaScript",
-    "TypeScript",
-    "Node.js",
-    "Express",
-    "SQL",
-    "Sequelize",
-    "SQLite"
-  ]
-};
-```
-
----
-
-## 📂 Outros projetos
-
-### 🎬 Catálogo de Filmes e Artistas
-
-Projeto desenvolvido para praticar **CRUD, organização de dados e desenvolvimento web**.
-
-`JavaScript` `HTML` `CSS`
-
-[🔗 Ver projeto](https://github.com/mathzsw/catalogo-filmes-artistas)
-
-### ✈️ IFTravel
-
-Projeto desenvolvido durante a formação para praticar desenvolvimento web e organização de aplicações.
-
-[🔗 Ver projeto](https://github.com/mathzsw/IFTravel)
-
-### 🍔 Cardápio — My Burguer House
-
-Projeto de interface desenvolvido para praticar **HTML e CSS** e construção de páginas web.
-
-[🔗 Ver projeto](https://github.com/mathzsw/Cardapio-My-Burguer-House)
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathzsw&theme=github_dark" width="95%" alt="Resumo do perfil GitHub"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathzsw&theme=github_dark" width="45%" alt="Linguagens dos repositórios"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathzsw&theme=github_dark" width="45%" alt="Linguagens por commits"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathzsw&theme=github_dark" width="45%" alt="Estatísticas"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mathzsw&theme=github_dark&utcOffset=-3" width="45%" alt="Horários de atividade"/>
-
-</div>
-
----
-
-## 🏆 Reconhecimentos
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🥇%20MEDALHA%20DE%20OURO-OBRL-020617?style=for-the-badge" alt="Medalha de Ouro OBRL"/>
-<img src="https://img.shields.io/badge/🥉%20MEDALHA%20DE%20BRONZE-OBRL-020617?style=for-the-badge" alt="Medalha de Bronze OBRL"/>
-<img src="https://img.shields.io/badge/🏅%20MENÇÃO%20HONROSA-OBMEP-020617?style=for-the-badge" alt="Menção Honrosa OBMEP"/>
-
-</div>
-
----
-
-## 📜 Certificações
-
-<div align="center">
-
-**🌐 Networking Basics**  
-Cisco Networking Academy • **22 horas** • Média final **8,9** • 2026
-
-<br>
-
-**📊 Excel 2021**  
-Prepara Cursos Profissionalizantes • **16 horas** • 2026
-
-<br>
-
-**🎨 Adobe Photoshop Creative Cloud**  
-Módulo I e Módulo II • Prepara Cursos Profissionalizantes
-
-</div>
-
----
-
-## 🎓 Formação
-
-<div align="center">
-
-### Técnico Integrado em Desenvolvimento de Sistemas
-
-**Instituto Federal de Pernambuco — IFPE**
-
-`2025 — 2027`
-
-</div>
-
----
-
-## 🌐 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mathrdrigues">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/mathzsw">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</a>
-
-<br><br>
-
-<code>Aprendendo • Construindo • Evoluindo 🚀</code>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=120&section=footer" width="100%" alt="Rodapé"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=100&section=footer" width="100%" alt="Rodapé" />
 </div>
