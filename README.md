@@ -159,6 +159,10 @@ Aplicação web de convite digital para uma celebração de 15 anos, com confirm
 
 <br><br>
 
+<a href="https://convite-xv-maria-alice-uhvg.vercel.app">
+<img src="https://img.shields.io/badge/ACESSAR%20SITE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Acessar site do convite"/>
+</a>
+
 <a href="https://github.com/mathzsw/convite-xv-maria-alice">
 <img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
 </a>
@@ -190,6 +194,10 @@ Sistema web para centralizar matérias, tarefas e provas. Projeto em desenvolvim
 <p>
 Plataforma de reconstrução histórica e visualização da evolução de projetos no GitHub.
 </p>
+
+<a href="https://rastro-history-preview-git-feat-history-explorer-3a0c59-mathzsw.vercel.app">
+<img src="https://img.shields.io/badge/ACESSAR%20SITE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Acessar site do RASTRO"/>
+</a>
 
 <a href="https://github.com/mathzsw/rastro">
 <img src="https://img.shields.io/badge/ABRIR%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir projeto"/>
